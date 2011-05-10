@@ -1,0 +1,5 @@
+c:\users\julianj\documents\visual studio 2010\Projects\DynamicProxyIssue\Interfaces\bin\Debug\Interfaces.dll
+c:\users\julianj\documents\visual studio 2010\Projects\DynamicProxyIssue\Interfaces\bin\Debug\Interfaces.pdb
+c:\users\julianj\documents\visual studio 2010\Projects\DynamicProxyIssue\Interfaces\obj\Debug\ResolveAssemblyReference.cache
+c:\users\julianj\documents\visual studio 2010\Projects\DynamicProxyIssue\Interfaces\obj\Debug\Interfaces.dll
+c:\users\julianj\documents\visual studio 2010\Projects\DynamicProxyIssue\Interfaces\obj\Debug\Interfaces.pdb

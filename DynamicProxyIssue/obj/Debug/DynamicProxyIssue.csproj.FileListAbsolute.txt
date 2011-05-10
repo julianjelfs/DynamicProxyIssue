@@ -1,0 +1,12 @@
+c:\users\julianj\documents\visual studio 2010\Projects\DynamicProxyIssue\DynamicProxyIssue\bin\Debug\DynamicProxyIssue.dll
+c:\users\julianj\documents\visual studio 2010\Projects\DynamicProxyIssue\DynamicProxyIssue\bin\Debug\DynamicProxyIssue.pdb
+c:\users\julianj\documents\visual studio 2010\Projects\DynamicProxyIssue\DynamicProxyIssue\bin\Debug\nunit.framework.dll
+c:\users\julianj\documents\visual studio 2010\Projects\DynamicProxyIssue\DynamicProxyIssue\bin\Debug\nunit.mocks.dll
+c:\users\julianj\documents\visual studio 2010\Projects\DynamicProxyIssue\DynamicProxyIssue\bin\Debug\pnunit.framework.dll
+c:\users\julianj\documents\visual studio 2010\Projects\DynamicProxyIssue\DynamicProxyIssue\bin\Debug\Rhino.Mocks.dll
+c:\users\julianj\documents\visual studio 2010\Projects\DynamicProxyIssue\DynamicProxyIssue\bin\Debug\nunit.framework.xml
+c:\users\julianj\documents\visual studio 2010\Projects\DynamicProxyIssue\DynamicProxyIssue\obj\Debug\ResolveAssemblyReference.cache
+c:\users\julianj\documents\visual studio 2010\Projects\DynamicProxyIssue\DynamicProxyIssue\obj\Debug\DynamicProxyIssue.dll
+c:\users\julianj\documents\visual studio 2010\Projects\DynamicProxyIssue\DynamicProxyIssue\obj\Debug\DynamicProxyIssue.pdb
+c:\users\julianj\documents\visual studio 2010\Projects\DynamicProxyIssue\DynamicProxyIssue\bin\Debug\Interfaces.dll
+c:\users\julianj\documents\visual studio 2010\Projects\DynamicProxyIssue\DynamicProxyIssue\bin\Debug\Interfaces.pdb

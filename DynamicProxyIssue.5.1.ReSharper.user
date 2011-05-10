@@ -1,0 +1,77 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="d:Miscellaneous Files/f:MockRepository.cs/l:C!?Users?julianj?AppData?Local?Red Gate?.NET Reflector 6?Cache?V4?x86?CS?V40?4a968daf-b789-45e7-b9b5-9dbcbb0ab245?Rhino?Mocks?MockRepository.cs" caret="18378" fromTop="13" />
+      <File id="d:Miscellaneous Files/f:ProxyGenerator.cs/l:C!?Users?julianj?AppData?Local?Red Gate?.NET Reflector 6?Cache?V4?x86?CS?V40?4a968daf-b789-45e7-b9b5-9dbcbb0ab245?Castle?DynamicProxy?ProxyGenerator.cs" caret="4084" fromTop="11" />
+      <File id="d:Miscellaneous Files/f:InterfaceProxyWithoutTargetGenerator.cs/l:C!?Users?julianj?AppData?Local?Red Gate?.NET Reflector 6?Cache?V4?x86?CS?V40?4a968daf-b789-45e7-b9b5-9dbcbb0ab245?Castle?DynamicProxy?Generators?InterfaceProxyWithoutTargetGenerator.cs" caret="533" fromTop="9" />
+      <File id="d:Miscellaneous Files/f:DefaultProxyBuilder.cs/l:C!?Users?julianj?AppData?Local?Red Gate?.NET Reflector 6?Cache?V4?x86?CS?V40?4a968daf-b789-45e7-b9b5-9dbcbb0ab245?Castle?DynamicProxy?DefaultProxyBuilder.cs" caret="2622" fromTop="17" />
+      <File id="d:Miscellaneous Files/f:AbstractTypeEmitter.cs/l:C!?Users?julianj?AppData?Local?Red Gate?.NET Reflector 6?Cache?V4?x86?CS?V40?4a968daf-b789-45e7-b9b5-9dbcbb0ab245?Castle?DynamicProxy?Generators?Emitters?AbstractTypeEmitter.cs" caret="1826" fromTop="13" />
+      <File id="d:Miscellaneous Files/f:BaseProxyGenerator.cs/l:C!?Users?julianj?AppData?Local?Red Gate?.NET Reflector 6?Cache?V4?x86?CS?V40?4a968daf-b789-45e7-b9b5-9dbcbb0ab245?Castle?DynamicProxy?Generators?BaseProxyGenerator.cs" caret="5604" fromTop="19" />
+      <File id="d:Miscellaneous Files/f:ClassEmitter.cs/l:C!?Users?julianj?AppData?Local?Red Gate?.NET Reflector 6?Cache?V4?x86?CS?V40?4a968daf-b789-45e7-b9b5-9dbcbb0ab245?Castle?DynamicProxy?Generators?Emitters?ClassEmitter.cs" caret="1684" fromTop="17" />
+      <File id="d:Miscellaneous Files/f:InterfaceProxyWithTargetGenerator.cs/l:C!?Users?julianj?AppData?Local?Red Gate?.NET Reflector 6?Cache?V4?x86?CS?V40?4a968daf-b789-45e7-b9b5-9dbcbb0ab245?Castle?DynamicProxy?Generators?InterfaceProxyWithTargetGenerator.cs" caret="6796" fromTop="13" />
+      <File id="d:Miscellaneous Files/f:ModuleScope.cs/l:C!?Users?julianj?AppData?Local?Red Gate?.NET Reflector 6?Cache?V4?x86?CS?V40?4a968daf-b789-45e7-b9b5-9dbcbb0ab245?Castle?DynamicProxy?ModuleScope.cs" caret="3411" fromTop="20" />
+      <File id="37087815-9418-4FC0-8162-E60091D4B393/f:Class1.cs" caret="1105" fromTop="25" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="37087815-9418-4FC0-8162-E60091D4B393/f:Class1.cs" caret="995" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="TestFixtureSetUp" priority="0" />
+      <Item value="public" priority="2" />
+      <Item value="void" priority="1" />
+      <Item value="interface" priority="2" />
+      <Item value="var" priority="1" />
+      <Item value="Interface1`0" priority="0" />
+      <Item value="AppDomain`0" priority="1" />
+      <Item value="typeof" priority="0" />
+      <Item value="Interface2`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Rhino.Mocks.MockRepository">
+      <Item value="GenerateStub`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.EnterpriseServices.ServiceDomain">
+      <Item value="Enter`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="GetExecutingAssembly`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.AppDomain">
+      <Item value="CurrentDomain" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.AppDomain">
+      <Item value="DefineDynamicAssembly`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Assembly" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.Assembly">
+      <Item value="FullName" priority="0" />
+      <Item value="GetName`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Emit.AssemblyBuilderAccess">
+      <Item value="ReflectionOnly" priority="0" />
+      <Item value="Run" priority="0" />
+      <Item value="RunAndSave" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
